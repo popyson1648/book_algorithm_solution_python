@@ -1,0 +1,756 @@
+[
+  {
+    "source": "codes/chap02/code_2_1.cpp",
+    "reference": "tests/reference/codes/chap02/code_2_1.cpp",
+    "encoding": "utf-8",
+    "sha256": "70e9deaab82b57ad5ec90027cd0f543ce04ee0123340080b1c7f0b525932132e"
+  },
+  {
+    "source": "codes/chap02/code_2_2.cpp",
+    "reference": "tests/reference/codes/chap02/code_2_2.cpp",
+    "encoding": "utf-8",
+    "sha256": "53aa16e60a7165a826a4584246bb69b944f2ad73f206d396bc61964d69a8e23f"
+  },
+  {
+    "source": "codes/chap02/code_2_3.cpp",
+    "reference": "tests/reference/codes/chap02/code_2_3.cpp",
+    "encoding": "utf-8",
+    "sha256": "8625d82fb9342117a90501ce2c2712b9c68c1677b8cc6dde87cfb38b5cb0e0d9"
+  },
+  {
+    "source": "codes/chap02/code_2_4.cpp",
+    "reference": "tests/reference/codes/chap02/code_2_4.cpp",
+    "encoding": "euc_jp",
+    "sha256": "a37742f479a03d39db6658f23a279de796233187a5978efa275f142dd1caaf3a"
+  },
+  {
+    "source": "codes/chap03/code_3_1.cpp",
+    "reference": "tests/reference/codes/chap03/code_3_1.cpp",
+    "encoding": "euc_jp",
+    "sha256": "09d185fcc0b2fa0e80d0c9cc2cac851bd9f566c9731a70252a4df4069171e4b5"
+  },
+  {
+    "source": "codes/chap03/code_3_2.cpp",
+    "reference": "tests/reference/codes/chap03/code_3_2.cpp",
+    "encoding": "euc_jp",
+    "sha256": "5430e19da04ac6ac125f2712150621e4d3163ef0f8b5749514b23f41475244f8"
+  },
+  {
+    "source": "codes/chap03/code_3_3.cpp",
+    "reference": "tests/reference/codes/chap03/code_3_3.cpp",
+    "encoding": "euc_jp",
+    "sha256": "2988995a6fee045a5ffa3b0ea59016ff53932ec550256baa66f39580e8c0fa64"
+  },
+  {
+    "source": "codes/chap03/code_3_4.cpp",
+    "reference": "tests/reference/codes/chap03/code_3_4.cpp",
+    "encoding": "euc_jp",
+    "sha256": "b6a66b81569212bc212ed452da807a302b2666311b6918b149b76200b842e656"
+  },
+  {
+    "source": "codes/chap03/code_3_6.cpp",
+    "reference": "tests/reference/codes/chap03/code_3_6.cpp",
+    "encoding": "euc_jp",
+    "sha256": "ec0c2b3f320c838885e2455984a684a2833a95765bc9ae43a942d3bad545566c"
+  },
+  {
+    "source": "codes/chap04/code_4_1.cpp",
+    "reference": "tests/reference/codes/chap04/code_4_1.cpp",
+    "encoding": "utf-8",
+    "sha256": "f314c5b9fbc9857c76dd48e09c6ccdce1c6feefebd7d0c22a92dc476b970f097"
+  },
+  {
+    "source": "codes/chap04/code_4_2.cpp",
+    "reference": "tests/reference/codes/chap04/code_4_2.cpp",
+    "encoding": "euc_jp",
+    "sha256": "d9e1dc1a71d024df90a848b4e3308479b4d7db8ae0cb114bdaf4ddeac38b1b6f"
+  },
+  {
+    "source": "codes/chap04/code_4_4.cpp",
+    "reference": "tests/reference/codes/chap04/code_4_4.cpp",
+    "encoding": "euc_jp",
+    "sha256": "d191a8d5257cc4373ec7357295dae072540d2157484ad6fb1f644920e103697c"
+  },
+  {
+    "source": "codes/chap04/code_4_5.cpp",
+    "reference": "tests/reference/codes/chap04/code_4_5.cpp",
+    "encoding": "euc_jp",
+    "sha256": "b0581b05aa97f338e26ccc604c3fb6605a77c14ac2fe47c111e7c6df425018b8"
+  },
+  {
+    "source": "codes/chap04/code_4_6.cpp",
+    "reference": "tests/reference/codes/chap04/code_4_6.cpp",
+    "encoding": "euc_jp",
+    "sha256": "aa1627ac5140353fbc648b4217d440b6b0d17ca535b12b0a2b382a764d84bcad"
+  },
+  {
+    "source": "codes/chap04/code_4_7.cpp",
+    "reference": "tests/reference/codes/chap04/code_4_7.cpp",
+    "encoding": "euc_jp",
+    "sha256": "6ef3a49e374ec3f673efa4388b29fb255959d1bd9984ff523cfa26ff667cc970"
+  },
+  {
+    "source": "codes/chap04/code_4_8.cpp",
+    "reference": "tests/reference/codes/chap04/code_4_8.cpp",
+    "encoding": "euc_jp",
+    "sha256": "4e807c315b3d1a38e7c7751e924dbd69177be269deead40e63477da77654ea58"
+  },
+  {
+    "source": "codes/chap04/code_4_9.cpp",
+    "reference": "tests/reference/codes/chap04/code_4_9.cpp",
+    "encoding": "euc_jp",
+    "sha256": "f1bb40f23c7cc7506e542b38c2d678e63000e2da51f622462c7cd8fd24e033fe"
+  },
+  {
+    "source": "codes/chap05/code_5_1.cpp",
+    "reference": "tests/reference/codes/chap05/code_5_1.cpp",
+    "encoding": "euc_jp",
+    "sha256": "84e4c3447d3ce461efb7f4447f5614401f782aad6583027bd4913fccf61b5a91"
+  },
+  {
+    "source": "codes/chap05/code_5_2.cpp",
+    "reference": "tests/reference/codes/chap05/code_5_2.cpp",
+    "encoding": "utf-8",
+    "sha256": "5a2a559256d74de734c2cf13d2bf85603867027c8fedf2bf6612f65af8c40394"
+  },
+  {
+    "source": "codes/chap05/code_5_3.cpp",
+    "reference": "tests/reference/codes/chap05/code_5_3.cpp",
+    "encoding": "euc_jp",
+    "sha256": "a8c9c1f3946015583f4e3d584bcde70c62121c522402b164c9a6f67ca8757eba"
+  },
+  {
+    "source": "codes/chap05/code_5_4.cpp",
+    "reference": "tests/reference/codes/chap05/code_5_4.cpp",
+    "encoding": "euc_jp",
+    "sha256": "87d736e96e9ad20b06763a8fdd7166dd71c4ddddffc9383285d84dd16cc79e28"
+  },
+  {
+    "source": "codes/chap05/code_5_6.cpp",
+    "reference": "tests/reference/codes/chap05/code_5_6.cpp",
+    "encoding": "euc_jp",
+    "sha256": "56389fba04d185f1ab87fbbc21230c3b28f06e8278f96527d7a505ef65402715"
+  },
+  {
+    "source": "codes/chap05/code_5_7.cpp",
+    "reference": "tests/reference/codes/chap05/code_5_7.cpp",
+    "encoding": "euc_jp",
+    "sha256": "a91bdd3cbbb025f358bca384280c319c15748c13081e12fb68bc78d38be8eda4"
+  },
+  {
+    "source": "codes/chap05/code_5_8.cpp",
+    "reference": "tests/reference/codes/chap05/code_5_8.cpp",
+    "encoding": "euc_jp",
+    "sha256": "af7e70d9dc1103f4eed945bb112541e461162e24f6dec5bea179441505ed990a"
+  },
+  {
+    "source": "codes/chap05/code_5_9.cpp",
+    "reference": "tests/reference/codes/chap05/code_5_9.cpp",
+    "encoding": "euc_jp",
+    "sha256": "e6ef3cea5c45cd114a48960a7907475dffe19df62745bfdb9754dac05565e888"
+  },
+  {
+    "source": "codes/chap06/code_6_1.cpp",
+    "reference": "tests/reference/codes/chap06/code_6_1.cpp",
+    "encoding": "euc_jp",
+    "sha256": "a5398b3cd1270bfba7fcd613127a07241c4e5e4ef7cd9b54bfdf8fdaef783f69"
+  },
+  {
+    "source": "codes/chap06/code_6_2.cpp",
+    "reference": "tests/reference/codes/chap06/code_6_2.cpp",
+    "encoding": "euc_jp",
+    "sha256": "72998ad0c9cabffe930c843d0763fca5069ed0cfecfb574d9cf2c225004869ae"
+  },
+  {
+    "source": "codes/chap06/code_6_3.cpp",
+    "reference": "tests/reference/codes/chap06/code_6_3.cpp",
+    "encoding": "euc_jp",
+    "sha256": "1fbf37828557b0239afc406987033e51719694826d1e3e9b0fcb4200e7602ca6"
+  },
+  {
+    "source": "codes/chap06/code_6_4.cpp",
+    "reference": "tests/reference/codes/chap06/code_6_4.cpp",
+    "encoding": "euc_jp",
+    "sha256": "a29695b540929f3c5ea06072e807cbe830ed5a0b53b20a2658d20fea637ebc87"
+  },
+  {
+    "source": "codes/chap06/code_6_5.cpp",
+    "reference": "tests/reference/codes/chap06/code_6_5.cpp",
+    "encoding": "euc_jp",
+    "sha256": "8b7b9a58b58540369d5a1106ad8ca50b822a892a44b176bccdad9c7fa1026803"
+  },
+  {
+    "source": "codes/chap07/code_7_1.cpp",
+    "reference": "tests/reference/codes/chap07/code_7_1.cpp",
+    "encoding": "euc_jp",
+    "sha256": "8d4da1b97471bfb5b9417ca43f8d86d78556be3e516973d5e9d7784e7e8e39c2"
+  },
+  {
+    "source": "codes/chap07/code_7_2.cpp",
+    "reference": "tests/reference/codes/chap07/code_7_2.cpp",
+    "encoding": "euc_jp",
+    "sha256": "38c1ec0e0c364d417b06de83745295748aacde8f0f19513f4cb74d470fbbca5f"
+  },
+  {
+    "source": "codes/chap07/code_7_3.cpp",
+    "reference": "tests/reference/codes/chap07/code_7_3.cpp",
+    "encoding": "euc_jp",
+    "sha256": "f5a0679c983557193524c3f1bfc97524e4e91f889e423f4379bd0d0aedefbca4"
+  },
+  {
+    "source": "codes/chap08/code_8_1.cpp",
+    "reference": "tests/reference/codes/chap08/code_8_1.cpp",
+    "encoding": "euc_jp",
+    "sha256": "7da85227683aad549d2e18f55c15318d32b77425b2c6e97e7a098ce27b107381"
+  },
+  {
+    "source": "codes/chap08/code_8_2.cpp",
+    "reference": "tests/reference/codes/chap08/code_8_2.cpp",
+    "encoding": "euc_jp",
+    "sha256": "d7be724f513aea11f6172d4f67841e918f854bfa3254e1bf5b292e2f7ca1216b"
+  },
+  {
+    "source": "codes/chap08/code_8_3.cpp",
+    "reference": "tests/reference/codes/chap08/code_8_3.cpp",
+    "encoding": "euc_jp",
+    "sha256": "874d41f620711250f2bcaae116c9d7b3b01ecbb242a79a29de281445dea8b643"
+  },
+  {
+    "source": "codes/chap08/code_8_4.cpp",
+    "reference": "tests/reference/codes/chap08/code_8_4.cpp",
+    "encoding": "euc_jp",
+    "sha256": "eccee91c1b010a757cfc7fae4f107f25c1fea4006306f9f0336f3a2ffa7195d5"
+  },
+  {
+    "source": "codes/chap08/code_8_5.cpp",
+    "reference": "tests/reference/codes/chap08/code_8_5.cpp",
+    "encoding": "euc_jp",
+    "sha256": "db0b2f1a8005ee966e2cc6ea33fa86f7258f011d30610592a9f10a11ac3783d2"
+  },
+  {
+    "source": "codes/chap08/code_8_6.cpp",
+    "reference": "tests/reference/codes/chap08/code_8_6.cpp",
+    "encoding": "euc_jp",
+    "sha256": "e47fca434264e88fdf9b48c7fd4d3742fb23f466fe2b03b8fb020242abefd3c5"
+  },
+  {
+    "source": "codes/chap09/code_9_1.cpp",
+    "reference": "tests/reference/codes/chap09/code_9_1.cpp",
+    "encoding": "euc_jp",
+    "sha256": "5b792bc57209de1cc0ff016bfab897bdde0a71bd2238e1be31c162f5fb60ff2e"
+  },
+  {
+    "source": "codes/chap09/code_9_2.cpp",
+    "reference": "tests/reference/codes/chap09/code_9_2.cpp",
+    "encoding": "euc_jp",
+    "sha256": "7bc5da0cae0821c514269fc1bee5e9efe5123bae1d76e7a36502e3e1948167e7"
+  },
+  {
+    "source": "codes/chap10/code_10_3.cpp",
+    "reference": "tests/reference/codes/chap10/code_10_3.cpp",
+    "encoding": "euc_jp",
+    "sha256": "51a38e4f800f9a333740c9694925645a7c6eb95720be45c763e1e1e89d931d2f"
+  },
+  {
+    "source": "codes/chap10/code_10_4.cpp",
+    "reference": "tests/reference/codes/chap10/code_10_4.cpp",
+    "encoding": "euc_jp",
+    "sha256": "70df7f328e3ef398e5133399a80d27eb5a6efa5a9c7a79f585900e58570a1ee2"
+  },
+  {
+    "source": "codes/chap10/code_10_5.cpp",
+    "reference": "tests/reference/codes/chap10/code_10_5.cpp",
+    "encoding": "euc_jp",
+    "sha256": "0ac06f015fb547b1714f4a43c9638a474397b6ad785a6853f92f08e58132b5df"
+  },
+  {
+    "source": "codes/chap11/code_11_1.cpp",
+    "reference": "tests/reference/codes/chap11/code_11_1.cpp",
+    "encoding": "euc_jp",
+    "sha256": "9fc742ede99342cb872b10b6fe433e8631088ead16b52c2da8dd46da3ca030d0"
+  },
+  {
+    "source": "codes/chap11/code_11_2.cpp",
+    "reference": "tests/reference/codes/chap11/code_11_2.cpp",
+    "encoding": "euc_jp",
+    "sha256": "3a200fd1514e5706456f21a7f8ffc51a520205e251ffa4302aab98aaf6f3511d"
+  },
+  {
+    "source": "codes/chap11/code_11_3.cpp",
+    "reference": "tests/reference/codes/chap11/code_11_3.cpp",
+    "encoding": "euc_jp",
+    "sha256": "b29da0f22b5f38716aa5c7f62c188c2f8bf67451d96eb9a7c1035233f8cec6aa"
+  },
+  {
+    "source": "codes/chap11/code_11_4.cpp",
+    "reference": "tests/reference/codes/chap11/code_11_4.cpp",
+    "encoding": "euc_jp",
+    "sha256": "1f0cdcbd48ad7399606a1340805bf8ae855fc2761e1db9ef58148ca246bcd74e"
+  },
+  {
+    "source": "codes/chap12/code_12_1.cpp",
+    "reference": "tests/reference/codes/chap12/code_12_1.cpp",
+    "encoding": "euc_jp",
+    "sha256": "00f54d7a4ea4b8b8382bdffdc00a14086aa05e0482b577bda5119245754bee14"
+  },
+  {
+    "source": "codes/chap12/code_12_2.cpp",
+    "reference": "tests/reference/codes/chap12/code_12_2.cpp",
+    "encoding": "euc_jp",
+    "sha256": "21ccd9a21c65bb2627ad566991d168c0f5fc13ac271656b25a8f217e65488f27"
+  },
+  {
+    "source": "codes/chap12/code_12_3.cpp",
+    "reference": "tests/reference/codes/chap12/code_12_3.cpp",
+    "encoding": "euc_jp",
+    "sha256": "b2dff7073e4823e90e7524bf37bcaa8cc521a7406b33f214e15bab80b7067c13"
+  },
+  {
+    "source": "codes/chap12/code_12_4.cpp",
+    "reference": "tests/reference/codes/chap12/code_12_4.cpp",
+    "encoding": "euc_jp",
+    "sha256": "dcb48e340926362cbf0bf62e91c78b1eddd071283913f3127f86981de53873ca"
+  },
+  {
+    "source": "codes/chap12/code_12_5.cpp",
+    "reference": "tests/reference/codes/chap12/code_12_5.cpp",
+    "encoding": "euc_jp",
+    "sha256": "484a21da7b4ae1f13e0482df14b031788942abbe682e20db17b38839f43cf899"
+  },
+  {
+    "source": "codes/chap13/code_13_2.cpp",
+    "reference": "tests/reference/codes/chap13/code_13_2.cpp",
+    "encoding": "euc_jp",
+    "sha256": "dd1f4bd302d09760c1ee8daa2754f244a1dacdf1e86e9175f2dbb3d6ead4cc54"
+  },
+  {
+    "source": "codes/chap13/code_13_3.cpp",
+    "reference": "tests/reference/codes/chap13/code_13_3.cpp",
+    "encoding": "euc_jp",
+    "sha256": "cdc64c8dea4153e6a2e8369a59a5b57d57c7398c77a9aec0c98d34fb45a66732"
+  },
+  {
+    "source": "codes/chap13/code_13_4.cpp",
+    "reference": "tests/reference/codes/chap13/code_13_4.cpp",
+    "encoding": "euc_jp",
+    "sha256": "9224c6079dd8f14c67c8a79ce8851c6f6b6ce0d4032aa6e2206f4c69cfbd139b"
+  },
+  {
+    "source": "codes/chap13/code_13_5.cpp",
+    "reference": "tests/reference/codes/chap13/code_13_5.cpp",
+    "encoding": "euc_jp",
+    "sha256": "d0ca70e279b1775a785f70a53c661ec28e47b901c574fe2d5ce85b4514c07050"
+  },
+  {
+    "source": "codes/chap13/code_13_6.cpp",
+    "reference": "tests/reference/codes/chap13/code_13_6.cpp",
+    "encoding": "euc_jp",
+    "sha256": "93632a7f0730699cd2d16fea5dfc2f6a5e59ee4d55818dfadbb9c6bbb9b2ac33"
+  },
+  {
+    "source": "codes/chap13/code_13_9.cpp",
+    "reference": "tests/reference/codes/chap13/code_13_9.cpp",
+    "encoding": "euc_jp",
+    "sha256": "7483b721fa56ed4e7ef254ec9b96c7cd56558ceba1c4fb3e29ae8ddb6d1c5502"
+  },
+  {
+    "source": "codes/chap14/code_14_1.cpp",
+    "reference": "tests/reference/codes/chap14/code_14_1.cpp",
+    "encoding": "utf-8",
+    "sha256": "3eed29068c096f3387b9b51ff97c86db24ef2c021c60ecb8179db4c31f7c24b7"
+  },
+  {
+    "source": "codes/chap14/code_14_2.cpp",
+    "reference": "tests/reference/codes/chap14/code_14_2.cpp",
+    "encoding": "euc_jp",
+    "sha256": "30ad0afd7119e7f1ce1f11f829aa346da68405bb867e9616970347f409ba55dd"
+  },
+  {
+    "source": "codes/chap14/code_14_3.cpp",
+    "reference": "tests/reference/codes/chap14/code_14_3.cpp",
+    "encoding": "euc_jp",
+    "sha256": "b0ea75ff616a4463bcc209ad2e478c794e7bf522911d096a61eeb6d4302b2a01"
+  },
+  {
+    "source": "codes/chap14/code_14_4.cpp",
+    "reference": "tests/reference/codes/chap14/code_14_4.cpp",
+    "encoding": "euc_jp",
+    "sha256": "fa7f88a6d6d11cf37b9692cf6cc9b83d6830ae3247d65634adcf0d56c2912f58"
+  },
+  {
+    "source": "codes/chap14/code_14_5.cpp",
+    "reference": "tests/reference/codes/chap14/code_14_5.cpp",
+    "encoding": "euc_jp",
+    "sha256": "bb69a22b67f0651d41c80b75ce26b68071e50e8379670efc899cbc6b992a595e"
+  },
+  {
+    "source": "codes/chap15/code_15_1.cpp",
+    "reference": "tests/reference/codes/chap15/code_15_1.cpp",
+    "encoding": "euc_jp",
+    "sha256": "aad632dde3b2a54c0e3a12aeae2dcd388d9ee13c3139789d23d6b1a3902fad46"
+  },
+  {
+    "source": "codes/chap16/code_16_1.cpp",
+    "reference": "tests/reference/codes/chap16/code_16_1.cpp",
+    "encoding": "euc_jp",
+    "sha256": "94c28ebd6ce1c112a1ca8f1c485f81833e270028d2531b63f4ccc0f91a19b2b1"
+  },
+  {
+    "source": "codes/chap18/code_18_1.cpp",
+    "reference": "tests/reference/codes/chap18/code_18_1.cpp",
+    "encoding": "euc_jp",
+    "sha256": "8f996788c88c4ce28ba7ec49a11cd178a8ab86c0dc79ce797fc987039f10192b"
+  },
+  {
+    "source": "solutions/chap03.md",
+    "block": 1,
+    "reference": "tests/reference/solutions/chap03/block_01.cpp",
+    "line": 21,
+    "heading": "# 3.2",
+    "sha256": "f2ceb8b520ffe9ee1ca2ece6d9059ada056bca311ff0f678edd900ef6c823684"
+  },
+  {
+    "source": "solutions/chap03.md",
+    "block": 2,
+    "reference": "tests/reference/solutions/chap03/block_02.cpp",
+    "line": 61,
+    "heading": "# 3.3",
+    "sha256": "a0423ba71a4dc63196e10715280d1ddd957022d22d5d2e9ef076d5adf9a28350"
+  },
+  {
+    "source": "solutions/chap03.md",
+    "block": 3,
+    "reference": "tests/reference/solutions/chap03/block_03.cpp",
+    "line": 100,
+    "heading": "# 3.4",
+    "sha256": "e7affc30b509c94e387f23b57807c487d43d882161948fa3b40e24543efa8258"
+  },
+  {
+    "source": "solutions/chap03.md",
+    "block": 4,
+    "reference": "tests/reference/solutions/chap03/block_04.cpp",
+    "line": 148,
+    "heading": "# 3.5 (ABC 081 B - Shift Only)",
+    "sha256": "e98ef2cd8e1ecf14936f6c34f84fd2f786dbbde958fe6db08f927f6de77a30ca"
+  },
+  {
+    "source": "solutions/chap03.md",
+    "block": 5,
+    "reference": "tests/reference/solutions/chap03/block_05.cpp",
+    "line": 188,
+    "heading": "# 3.6 (ABC 051 B - Sum of Three Integers)",
+    "sha256": "4c93a7a7af762476988ac74d78028f9062da6f6ed7116ec1c17c7b4f2ced1062"
+  },
+  {
+    "source": "solutions/chap03.md",
+    "block": 6,
+    "reference": "tests/reference/solutions/chap03/block_06.cpp",
+    "line": 215,
+    "heading": "# 3.6 (ABC 051 B - Sum of Three Integers)",
+    "sha256": "b25d6881da130eaad5b6a00a3ac26e269b420d786b0f199ac1612ed815273e0a"
+  },
+  {
+    "source": "solutions/chap03.md",
+    "block": 7,
+    "reference": "tests/reference/solutions/chap03/block_07.cpp",
+    "line": 253,
+    "heading": "# 3.7 (ABC 045 C - たくさんの数式)",
+    "sha256": "8edb7bdfec0ca85a6860b41c5a0a2bc93295ec80161ef1b051b9809a8d0e1d62"
+  },
+  {
+    "source": "solutions/chap04.md",
+    "block": 1,
+    "reference": "tests/reference/solutions/chap04/block_01.cpp",
+    "line": 7,
+    "heading": "# 4.1",
+    "sha256": "6dd87056d409e9c6e17c6a4dcf0713bcc30f73cbc42ad413b15c972d0c39bdac"
+  },
+  {
+    "source": "solutions/chap04.md",
+    "block": 2,
+    "reference": "tests/reference/solutions/chap04/block_02.cpp",
+    "line": 38,
+    "heading": "# 4.2",
+    "sha256": "654d9fa0b25728001a89e7961114cb56a354fe683aea5b5609ab8891d5001c6a"
+  },
+  {
+    "source": "solutions/chap04.md",
+    "block": 3,
+    "reference": "tests/reference/solutions/chap04/block_03.cpp",
+    "line": 125,
+    "heading": "# 4.5 (ABC 114 C - 755)",
+    "sha256": "200d3c569c0fbe710f2a160adb36a62630e27657d5ef2e03cf2c2e56b114b7da"
+  },
+  {
+    "source": "solutions/chap04.md",
+    "block": 4,
+    "reference": "tests/reference/solutions/chap04/block_04.cpp",
+    "line": 178,
+    "heading": "# 4.6",
+    "sha256": "4f918674dcb5d5e5dceef8f25ca5399ceac3307957302d837dcd2eb16134457e"
+  },
+  {
+    "source": "solutions/chap05.md",
+    "block": 1,
+    "reference": "tests/reference/solutions/chap05/block_01.cpp",
+    "line": 36,
+    "heading": "# 5.1 (EDPC C - Vacation)",
+    "sha256": "a4862cd22f93d07b20e1e768d8c2705cc96147d4fc0fce2f346b0a32da645925"
+  },
+  {
+    "source": "solutions/chap05.md",
+    "block": 2,
+    "reference": "tests/reference/solutions/chap05/block_02.cpp",
+    "line": 89,
+    "heading": "# 5.2 (部分和問題)",
+    "sha256": "aaac11f9bab17bff91f9b2ef1bbe9ef51e04dbbb6c9c3681f469d6654bda22a4"
+  },
+  {
+    "source": "solutions/chap05.md",
+    "block": 3,
+    "reference": "tests/reference/solutions/chap05/block_03.cpp",
+    "line": 103,
+    "heading": "# 5.2 (部分和問題)",
+    "sha256": "bbfbd4e3f06057864c509d1d884b0efbafab7e55a22c96bc8da51c9b1c2d585a"
+  },
+  {
+    "source": "solutions/chap05.md",
+    "block": 4,
+    "reference": "tests/reference/solutions/chap05/block_04.cpp",
+    "line": 158,
+    "heading": "# 5.4 (K 個以内で W を作る)",
+    "sha256": "4b48182f09bf1caa8070de4502c2e14cdfe7d6310f621db1c773c1ebcc0873a6"
+  },
+  {
+    "source": "solutions/chap05.md",
+    "block": 5,
+    "reference": "tests/reference/solutions/chap05/block_05.cpp",
+    "line": 188,
+    "heading": "# 5.4 (K 個以内で W を作る)",
+    "sha256": "9f799e8e983d5891d61e3cbee8c92cc83046dc5f918d1f7c158782eb7cd47e71"
+  },
+  {
+    "source": "solutions/chap05.md",
+    "block": 6,
+    "reference": "tests/reference/solutions/chap05/block_06.cpp",
+    "line": 202,
+    "heading": "# 5.4 (K 個以内で W を作る)",
+    "sha256": "356b3e1e03dd7a5130575eee0566ef3735c36d72568311cf64e16aecd647d43f"
+  },
+  {
+    "source": "solutions/chap05.md",
+    "block": 7,
+    "reference": "tests/reference/solutions/chap05/block_07.cpp",
+    "line": 256,
+    "heading": "# 5.5 (個数制限なし部分和問題)",
+    "sha256": "d2bc5641f706a35b9c76cb10d5c2482a48a5c3ccb99ab13c42cdc77001ef1afa"
+  },
+  {
+    "source": "solutions/chap05.md",
+    "block": 8,
+    "reference": "tests/reference/solutions/chap05/block_08.cpp",
+    "line": 263,
+    "heading": "# 5.5 (個数制限なし部分和問題)",
+    "sha256": "c48dd6a06072c0cf0d3d5228cf9a7b25ced25190663381de59f37d29fe3a9895"
+  },
+  {
+    "source": "solutions/chap05.md",
+    "block": 9,
+    "reference": "tests/reference/solutions/chap05/block_09.cpp",
+    "line": 272,
+    "heading": "# 5.5 (個数制限なし部分和問題)",
+    "sha256": "17b9ec987520c98b93e59669c09e5652659f05b86ed182141120e75270fbb076"
+  },
+  {
+    "source": "solutions/chap05.md",
+    "block": 10,
+    "reference": "tests/reference/solutions/chap05/block_10.cpp",
+    "line": 342,
+    "heading": "#### `dp[i+1][j-a[i]] < m[i]`  である場合",
+    "sha256": "98aa5c190caab8fc4f22d8a8fa544cba26185a6a4c786779564861f618a2d2aa"
+  },
+  {
+    "source": "solutions/chap05.md",
+    "block": 11,
+    "reference": "tests/reference/solutions/chap05/block_11.cpp",
+    "line": 427,
+    "heading": "#### T の j 文字目を追加",
+    "sha256": "a22eaab109febce3fd8830c5bcd225bed368d12a13a08e52c7e9c4e87803d981"
+  },
+  {
+    "source": "solutions/chap05.md",
+    "block": 12,
+    "reference": "tests/reference/solutions/chap05/block_12.cpp",
+    "line": 496,
+    "heading": "# 5.9 (最適二分探索木問題)",
+    "sha256": "6c2771e5f56b8b7f4e66cc82e65d231a3fc2c5b741c42f586b07cfe75a37cfab"
+  },
+  {
+    "source": "solutions/chap05.md",
+    "block": 13,
+    "reference": "tests/reference/solutions/chap05/block_13.cpp",
+    "line": 512,
+    "heading": "# 5.9 (最適二分探索木問題)",
+    "sha256": "0b9a78159a8818ccda4d5ea13420f221ee750d8309bdbf783a42f1d83f16265b"
+  },
+  {
+    "source": "solutions/chap06.md",
+    "block": 1,
+    "reference": "tests/reference/solutions/chap06/block_01.cpp",
+    "line": 11,
+    "heading": "# 6.1 (座標圧縮)",
+    "sha256": "2c8dfed25e54c851b0dbc2886cd328fb7c3756e90cd194c55245021869b7917f"
+  },
+  {
+    "source": "solutions/chap06.md",
+    "block": 2,
+    "reference": "tests/reference/solutions/chap06/block_02.cpp",
+    "line": 21,
+    "heading": "# 6.1 (座標圧縮)",
+    "sha256": "80628470ac88dfe3f50f92b6d3cc8df283943426bf5920176dd116a49f6b8355"
+  },
+  {
+    "source": "solutions/chap06.md",
+    "block": 3,
+    "reference": "tests/reference/solutions/chap06/block_03.cpp",
+    "line": 95,
+    "heading": "# 6.4 (POJ No. 2456 Aggressive cows)",
+    "sha256": "0d2a7e2a57e31c5fe3114d62e1e2b3cc34bc9ce2ebd28fb38ee22209a6cff67f"
+  },
+  {
+    "source": "solutions/chap07.md",
+    "block": 1,
+    "reference": "tests/reference/solutions/chap07/block_01.cpp",
+    "line": 36,
+    "heading": "# 7.1",
+    "sha256": "cc5b68d216d68b356ecac4aa02d4715dea7fef3720fef9e77e1031e794784472"
+  },
+  {
+    "source": "solutions/chap08.md",
+    "block": 1,
+    "reference": "tests/reference/solutions/chap08/block_01.cpp",
+    "line": 7,
+    "heading": "# 8.1",
+    "sha256": "e57ee0ca3e44a9255b9d8cb52c7bb24fe1b02fe278446acae217da371ce5a716"
+  },
+  {
+    "source": "solutions/chap08.md",
+    "block": 2,
+    "reference": "tests/reference/solutions/chap08/block_02.cpp",
+    "line": 31,
+    "heading": "# 8.2",
+    "sha256": "d01bfc3464d8f016da9f12f4995850afd75e9e09ff7cf8a87a8c3672393ddcb7"
+  },
+  {
+    "source": "solutions/chap08.md",
+    "block": 3,
+    "reference": "tests/reference/solutions/chap08/block_03.cpp",
+    "line": 59,
+    "heading": "# 8.4",
+    "sha256": "230623884afeb5fdce3f74fc6987989d72eafac3ff52ea27c65cdb703d51d499"
+  },
+  {
+    "source": "solutions/chap09.md",
+    "block": 1,
+    "reference": "tests/reference/solutions/chap09/block_01.cpp",
+    "line": 46,
+    "heading": "# 9.2 (逆ポーランド記法)",
+    "sha256": "da6a7888081fed8fe04af1f39abc1e5ab9f482399df8b57bd6deb6b8fbd278e8"
+  },
+  {
+    "source": "solutions/chap09.md",
+    "block": 2,
+    "reference": "tests/reference/solutions/chap09/block_02.cpp",
+    "line": 132,
+    "heading": "# 9.3 (カッコ列の整合性判定)",
+    "sha256": "c0706955b68e7e78119b0752a00653208b736ceed8700a1ddba16c5c4c44dd1f"
+  },
+  {
+    "source": "solutions/chap12.md",
+    "block": 1,
+    "reference": "tests/reference/solutions/chap12/block_01.cpp",
+    "line": 18,
+    "heading": "# 12.1",
+    "sha256": "b218d04da9da260c7adfff62dfe77d1636c293e6b870e42cc93b7ee7618eca41"
+  },
+  {
+    "source": "solutions/chap12.md",
+    "block": 2,
+    "reference": "tests/reference/solutions/chap12/block_02.cpp",
+    "line": 96,
+    "heading": "# 12.5 (median of medians)",
+    "sha256": "f5280f73cbb87489723426003bdee9e329776e38385e98328ea0ebb9c900f779"
+  },
+  {
+    "source": "solutions/chap13.md",
+    "block": 1,
+    "reference": "tests/reference/solutions/chap13/block_01.cpp",
+    "line": 13,
+    "heading": "# 13.1 (グラフの連結成分数)",
+    "sha256": "015cfc1f41457ee94232c4f3a3bc0b43ae37d94171a53217445c7534d42bacf5"
+  },
+  {
+    "source": "solutions/chap13.md",
+    "block": 2,
+    "reference": "tests/reference/solutions/chap13/block_02.cpp",
+    "line": 75,
+    "heading": "# 13.1 (グラフの連結成分数)",
+    "sha256": "9dc391c4f0039855c8ad250a39b0b21a639081e71ce2967c2a706568b800b088"
+  },
+  {
+    "source": "solutions/chap13.md",
+    "block": 3,
+    "reference": "tests/reference/solutions/chap13/block_03.cpp",
+    "line": 158,
+    "heading": "# 13.2 (s-t パス)",
+    "sha256": "5e8f8d0b80b268aebde05578a5536c706f6aad39b26ff8947dedda882256ffee"
+  },
+  {
+    "source": "solutions/chap13.md",
+    "block": 4,
+    "reference": "tests/reference/solutions/chap13/block_04.cpp",
+    "line": 231,
+    "heading": "# 13.3 (二部グラフ判定)",
+    "sha256": "69db6a497d2b4ff25259e00e50ca9929a49f58211fa4825583423af5da427c5c"
+  },
+  {
+    "source": "solutions/chap13.md",
+    "block": 5,
+    "reference": "tests/reference/solutions/chap13/block_05.cpp",
+    "line": 333,
+    "heading": "# 13.4 (迷路の最短路)",
+    "sha256": "0b89dad09f016c8237d72b90b6e0aeeca94843935619dcb0e6946cf04c1485fa"
+  },
+  {
+    "source": "solutions/chap15.md",
+    "block": 1,
+    "reference": "tests/reference/solutions/chap15/block_01.cpp",
+    "line": 32,
+    "heading": "# 15.2 (メディアンが最小の全域木)",
+    "sha256": "d801753d5be57ee74fb795ad2d38271543583c6b81a0515936a6903c2eef6d56"
+  },
+  {
+    "source": "solutions/chap15.md",
+    "block": 2,
+    "reference": "tests/reference/solutions/chap15/block_02.cpp",
+    "line": 140,
+    "heading": "# 15.3 (最小全域木に必ず含まれる辺)",
+    "sha256": "d90a38545013687d48b5d7da9a403103e2f577a44f262c2dc5dbf86fa3507d0c"
+  },
+  {
+    "source": "solutions/chap18.md",
+    "block": 1,
+    "reference": "tests/reference/solutions/chap18/block_01.cpp",
+    "line": 20,
+    "heading": "# 18.1 (木の最大安定集合)",
+    "sha256": "8dbd50fb21ae18968559fa1a1d407a1a0a78278ce621085c622d4d268aa42e7a"
+  },
+  {
+    "source": "solutions/chap18.md",
+    "block": 2,
+    "reference": "tests/reference/solutions/chap18/block_02.cpp",
+    "line": 85,
+    "heading": "# 18.2 (EDPC P - Independent Set)",
+    "sha256": "184d26c22aeccce3422d0b4e98c228c6af168aa923e6cfb6d95f773fdd2db29b"
+  }
+]

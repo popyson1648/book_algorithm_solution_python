@@ -1,0 +1,1112 @@
+[
+  {
+    "key": "codes/2/1",
+    "path": "codes/chap02/code_2_1.py",
+    "title": "1重ループの操作回数",
+    "section": "2章・計算量",
+    "complexity": "時間 O(N^1)、追加領域 O(1)",
+    "source": "codes/chap02/code_2_1.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/2/2",
+    "path": "codes/chap02/code_2_2.py",
+    "title": "2重ループの操作回数",
+    "section": "2章・計算量",
+    "complexity": "時間 O(N^2)、追加領域 O(1)",
+    "source": "codes/chap02/code_2_2.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/2/3",
+    "path": "codes/chap02/code_2_3.py",
+    "title": "偶数の列挙",
+    "section": "2.3",
+    "complexity": "時間 O(N)、追加領域 O(1)",
+    "source": "codes/chap02/code_2_3.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/2/4",
+    "path": "codes/chap02/code_2_4.py",
+    "title": "最近点対の全探索",
+    "section": "2.4",
+    "complexity": "時間 O(N²)、入力領域 O(N)",
+    "source": "codes/chap02/code_2_4.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/3/1",
+    "path": "codes/chap03/code_3_1.py",
+    "title": "線形探索による存在判定",
+    "section": "3.2",
+    "complexity": "時間 O(N)、追加領域 O(1)",
+    "source": "codes/chap03/code_3_1.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/3/2",
+    "path": "codes/chap03/code_3_2.py",
+    "title": "最初に一致する添字の探索",
+    "section": "3.2",
+    "complexity": "時間 O(N)、追加領域 O(1)",
+    "source": "codes/chap03/code_3_2.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/3/3",
+    "path": "codes/chap03/code_3_3.py",
+    "title": "線形探索による最小値",
+    "section": "3.3",
+    "complexity": "時間 O(N)、追加領域 O(1)",
+    "source": "codes/chap03/code_3_3.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/3/4",
+    "path": "codes/chap03/code_3_4.py",
+    "title": "K以上となるペア和の最小値",
+    "section": "3.4",
+    "complexity": "時間 O(N²)、追加領域 O(1)",
+    "source": "codes/chap03/code_3_4.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/3/6",
+    "path": "codes/chap03/code_3_6.py",
+    "title": "部分和問題のビット全探索",
+    "section": "3.5",
+    "complexity": "時間 O(N·2^N)、追加領域 O(1)",
+    "source": "codes/chap03/code_3_6.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/4/1",
+    "path": "codes/chap04/code_4_1.py",
+    "title": "総和を求める再帰",
+    "section": "4.1",
+    "complexity": "時間 O(N)、再帰領域 O(N)",
+    "source": "codes/chap04/code_4_1.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "codes/4/2",
+    "path": "codes/chap04/code_4_2.py",
+    "title": "再帰の呼び出しと復帰の観察",
+    "section": "4.1",
+    "complexity": "時間 O(N)、再帰領域 O(N)",
+    "source": "codes/chap04/code_4_2.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/4/4",
+    "path": "codes/chap04/code_4_4.py",
+    "title": "ユークリッドの互除法",
+    "section": "4.2",
+    "complexity": "時間・再帰領域 O(log min(M,N))（正整数）",
+    "source": "codes/chap04/code_4_4.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/4/5",
+    "path": "codes/chap04/code_4_5.py",
+    "title": "フィボナッチ数列の素朴な再帰",
+    "section": "4.3",
+    "complexity": "時間 O(2^N)、再帰領域 O(N)",
+    "source": "codes/chap04/code_4_5.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "codes/4/6",
+    "path": "codes/chap04/code_4_6.py",
+    "title": "フィボナッチ再帰の実行順序",
+    "section": "4.3",
+    "complexity": "時間 O(2^N)、再帰領域 O(N)",
+    "source": "codes/chap04/code_4_6.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/4/7",
+    "path": "codes/chap04/code_4_7.py",
+    "title": "フィボナッチ数列の反復計算",
+    "section": "4.3–4.4",
+    "complexity": "N項まで時間 O(N)、領域 O(N)（算術演算回数）",
+    "source": "codes/chap04/code_4_7.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/4/8",
+    "path": "codes/chap04/code_4_8.py",
+    "title": "フィボナッチ数列のメモ化",
+    "section": "4.4",
+    "complexity": "時間 O(N)、領域 O(N)（算術演算回数）",
+    "source": "codes/chap04/code_4_8.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/4/9",
+    "path": "codes/chap04/code_4_9.py",
+    "title": "部分和問題の再帰全探索",
+    "section": "4.5",
+    "complexity": "時間 O(2^N)、再帰領域 O(N)",
+    "source": "codes/chap04/code_4_9.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/5/2",
+    "path": "codes/chap05/code_5_2.py",
+    "title": "最小値への緩和",
+    "section": "5.2–5.3",
+    "complexity": "時間 O(1)、追加領域 O(1)",
+    "source": "codes/chap05/code_5_2.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "codes/5/1",
+    "path": "codes/chap05/code_5_1.py",
+    "title": "Frogの動的計画法",
+    "section": "5.2–5.3",
+    "complexity": "時間 O(N)、領域 O(N)",
+    "source": "codes/chap05/code_5_1.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/5/3",
+    "path": "codes/chap05/code_5_3.py",
+    "title": "Frogの集める遷移",
+    "section": "5.2–5.3",
+    "complexity": "時間 O(N)、領域 O(N)",
+    "source": "codes/chap05/code_5_3.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/5/4",
+    "path": "codes/chap05/code_5_4.py",
+    "title": "Frogの配る遷移",
+    "section": "5.2–5.3",
+    "complexity": "時間 O(N)、領域 O(N)",
+    "source": "codes/chap05/code_5_4.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/5/6",
+    "path": "codes/chap05/code_5_6.py",
+    "title": "Frogのメモ化再帰",
+    "section": "5.3",
+    "complexity": "時間 O(N)、領域 O(N)",
+    "source": "codes/chap05/code_5_6.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/5/7",
+    "path": "codes/chap05/code_5_7.py",
+    "title": "0/1ナップサック",
+    "section": "5.4",
+    "complexity": "時間 O(NW)、領域 O(NW)",
+    "source": "codes/chap05/code_5_7.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/5/8",
+    "path": "codes/chap05/code_5_8.py",
+    "title": "編集距離",
+    "section": "5.5",
+    "complexity": "時間・領域 O((|S|+1)(|T|+1))",
+    "source": "codes/chap05/code_5_8.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/5/9",
+    "path": "codes/chap05/code_5_9.py",
+    "title": "区間分割の最小コスト",
+    "section": "5.6",
+    "complexity": "時間 O(N²)、DP領域 O(N)、入力領域 O(N²)",
+    "source": "codes/chap05/code_5_9.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/6/1",
+    "path": "codes/chap06/code_6_1.py",
+    "title": "配列の二分探索",
+    "section": "6.1",
+    "complexity": "時間 O(log N)、追加領域 O(1)",
+    "source": "codes/chap06/code_6_1.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/6/2",
+    "path": "codes/chap06/code_6_2.py",
+    "title": "単調な判定条件に対する二分探索",
+    "section": "6.3–6.4",
+    "complexity": "判定 O(T) のとき時間 O(T log(R-L))、追加領域 O(1)",
+    "source": "codes/chap06/code_6_2.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "codes/6/3",
+    "path": "codes/chap06/code_6_3.py",
+    "title": "年齢当てゲーム",
+    "section": "6.5",
+    "complexity": "質問回数 O(log(R-L))、領域 O(1)",
+    "source": "codes/chap06/code_6_3.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/6/4",
+    "path": "codes/chap06/code_6_4.py",
+    "title": "lower_boundの活用：ペア和",
+    "section": "6.6",
+    "complexity": "時間 O(N log N)、領域 O(N)",
+    "source": "codes/chap06/code_6_4.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/6/5",
+    "path": "codes/chap06/code_6_5.py",
+    "title": "射撃王：最適化を判定問題へ",
+    "section": "6.7",
+    "complexity": "時間 O(N log N log M)、領域 O(N)",
+    "source": "codes/chap06/code_6_5.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/7/1",
+    "path": "codes/chap07/code_7_1.py",
+    "title": "枚数制限付きコインの貪欲法",
+    "section": "7.1–7.2",
+    "complexity": "時間 O(K)、領域 O(K)（ここではK=6）",
+    "source": "codes/chap07/code_7_1.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/7/2",
+    "path": "codes/chap07/code_7_2.py",
+    "title": "区間スケジューリング",
+    "section": "7.3",
+    "complexity": "時間 O(N log N)、領域 O(N)",
+    "source": "codes/chap07/code_7_2.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/7/3",
+    "path": "codes/chap07/code_7_3.py",
+    "title": "Multiple Array：後ろから条件を満たす",
+    "section": "7.4",
+    "complexity": "時間 O(N)、領域 O(N)",
+    "source": "codes/chap07/code_7_3.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/8/1",
+    "path": "codes/chap08/code_8_1.py",
+    "title": "配列の参照と更新",
+    "section": "8.2",
+    "complexity": "時間・領域 O(1)（固定長の例）",
+    "source": "codes/chap08/code_8_1.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/8/2",
+    "path": "codes/chap08/code_8_2.py",
+    "title": "単方向リストのノード",
+    "section": "8.3",
+    "complexity": "ノード作成 O(1)",
+    "source": "codes/chap08/code_8_2.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "codes/8/5",
+    "path": "codes/chap08/code_8_5.py",
+    "title": "双方向リストのノード",
+    "section": "8.4",
+    "complexity": "ノード作成 O(1)",
+    "source": "codes/chap08/code_8_5.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "codes/8/3",
+    "path": "codes/chap08/code_8_3.py",
+    "title": "ノード直後への挿入",
+    "section": "8.4",
+    "complexity": "時間・追加領域 O(1)",
+    "source": "codes/chap08/code_8_3.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "codes/8/4",
+    "path": "codes/chap08/code_8_4.py",
+    "title": "番兵付き単方向連結リスト",
+    "section": "8.3–8.4",
+    "complexity": "挿入・削除 O(1)、走査 O(N)、領域 O(N)",
+    "source": "codes/chap08/code_8_4.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/8/6",
+    "path": "codes/chap08/code_8_6.py",
+    "title": "番兵付き双方向連結リスト",
+    "section": "8.3–8.4",
+    "complexity": "挿入・削除 O(1)、走査 O(N)、領域 O(N)",
+    "source": "codes/chap08/code_8_6.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/9/1",
+    "path": "codes/chap09/code_9_1.py",
+    "title": "配列による固定容量スタック",
+    "section": "9.2",
+    "complexity": "各操作 O(1)、領域 O(MAX)",
+    "source": "codes/chap09/code_9_1.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/9/2",
+    "path": "codes/chap09/code_9_2.py",
+    "title": "リングバッファによるキュー",
+    "section": "9.2",
+    "complexity": "各操作 O(1)、領域 O(MAX)、実効容量 MAX-1",
+    "source": "codes/chap09/code_9_2.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/10/3",
+    "path": "codes/chap10/code_10_3.py",
+    "title": "有向グラフの隣接リスト",
+    "section": "10.3",
+    "complexity": "時間・領域 O(V+E)",
+    "source": "codes/chap10/code_10_3.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/10/4",
+    "path": "codes/chap10/code_10_4.py",
+    "title": "重み付きグラフの隣接リスト",
+    "section": "10.4",
+    "complexity": "時間・領域 O(V+E)",
+    "source": "codes/chap10/code_10_4.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/10/5",
+    "path": "codes/chap10/code_10_5.py",
+    "title": "最大ヒープの実装",
+    "section": "10.7",
+    "complexity": "push/pop O(log N)、top O(1)、領域 O(N)",
+    "source": "codes/chap10/code_10_5.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/11/1",
+    "path": "codes/chap11/code_11_1.py",
+    "title": "経路圧縮なしの根探索",
+    "section": "11.2–11.5",
+    "complexity": "時間・再帰領域 O(木の高さ)",
+    "source": "codes/chap11/code_11_1.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "codes/11/2",
+    "path": "codes/chap11/code_11_2.py",
+    "title": "経路圧縮付きの根探索",
+    "section": "11.5",
+    "complexity": "1回の時間・再帰領域 O(木の高さ)",
+    "source": "codes/chap11/code_11_2.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "codes/11/3",
+    "path": "codes/chap11/code_11_3.py",
+    "title": "union by sizeと経路圧縮",
+    "section": "11.6",
+    "complexity": "初期化 O(N)、操作あたり償却 O(α(N))、領域 O(N)",
+    "source": "codes/chap11/code_11_3.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/11/4",
+    "path": "codes/chap11/code_11_4.py",
+    "title": "連結成分の個数",
+    "section": "11.7",
+    "complexity": "時間 O(V+Eα(V))、領域 O(V)",
+    "source": "codes/chap11/code_11_4.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/12/1",
+    "path": "codes/chap12/code_12_1.py",
+    "title": "挿入ソート",
+    "section": "12.3",
+    "complexity": "最悪時間 O(N²)、追加領域 O(1)",
+    "source": "codes/chap12/code_12_1.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/12/2",
+    "path": "codes/chap12/code_12_2.py",
+    "title": "マージソート",
+    "section": "12.4",
+    "complexity": "時間 O(N log N)、追加領域 O(N)",
+    "source": "codes/chap12/code_12_2.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/12/3",
+    "path": "codes/chap12/code_12_3.py",
+    "title": "クイックソート",
+    "section": "12.5",
+    "complexity": "平均時間 O(N log N)、最悪時間 O(N²)、最悪再帰領域 O(N)",
+    "source": "codes/chap12/code_12_3.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/12/4",
+    "path": "codes/chap12/code_12_4.py",
+    "title": "ヒープソート",
+    "section": "12.6",
+    "complexity": "時間 O(N log N)、再帰領域 O(log N)",
+    "source": "codes/chap12/code_12_4.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/12/5",
+    "path": "codes/chap12/code_12_5.py",
+    "title": "バケットソート（累積度数）",
+    "section": "12.8",
+    "complexity": "時間・追加領域 O(N+MAX)",
+    "source": "codes/chap12/code_12_5.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/13/2",
+    "path": "codes/chap13/code_13_2.py",
+    "title": "再帰DFSの基本形",
+    "section": "13.3",
+    "complexity": "時間 O(V+E)、領域 O(V+E)",
+    "source": "codes/chap13/code_13_2.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/13/3",
+    "path": "codes/chap13/code_13_3.py",
+    "title": "幅優先探索による最短路長",
+    "section": "13.5",
+    "complexity": "時間 O(V+E)、領域 O(V+E)",
+    "source": "codes/chap13/code_13_3.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/13/4",
+    "path": "codes/chap13/code_13_4.py",
+    "title": "有向グラフのs-t到達可能性",
+    "section": "13.7",
+    "complexity": "時間 O(V+E)、領域 O(V+E)",
+    "source": "codes/chap13/code_13_4.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/13/5",
+    "path": "codes/chap13/code_13_5.py",
+    "title": "再帰DFSによる二部グラフ判定",
+    "section": "13.8",
+    "complexity": "時間 O(V+E)、領域 O(V+E)",
+    "source": "codes/chap13/code_13_5.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/13/6",
+    "path": "codes/chap13/code_13_6.py",
+    "title": "DFSの帰りがけ順によるトポロジカルソート",
+    "section": "13.9",
+    "complexity": "時間 O(V+E)、領域 O(V+E)",
+    "source": "codes/chap13/code_13_6.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/13/9",
+    "path": "codes/chap13/code_13_9.py",
+    "title": "木の深さと部分木サイズ",
+    "section": "13.10",
+    "complexity": "時間・領域 O(V)",
+    "source": "codes/chap13/code_13_9.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/14/1",
+    "path": "codes/chap14/code_14_1.py",
+    "title": "更新の有無を返す緩和",
+    "section": "14.3",
+    "complexity": "時間・領域 O(1)",
+    "source": "codes/chap14/code_14_1.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "codes/14/2",
+    "path": "codes/chap14/code_14_2.py",
+    "title": "ベルマン・フォード法",
+    "section": "14.5",
+    "complexity": "時間 O(V(V+E))、領域 O(V+E)",
+    "source": "codes/chap14/code_14_2.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/14/3",
+    "path": "codes/chap14/code_14_3.py",
+    "title": "ヒープを使わないダイクストラ法",
+    "section": "14.6",
+    "complexity": "時間 O(V²+E)、領域 O(V+E)",
+    "source": "codes/chap14/code_14_3.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/14/4",
+    "path": "codes/chap14/code_14_4.py",
+    "title": "ヒープを使うダイクストラ法",
+    "section": "14.6",
+    "complexity": "時間 O(V+E log(E+1))、領域 O(V+E)",
+    "source": "codes/chap14/code_14_4.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/14/5",
+    "path": "codes/chap14/code_14_5.py",
+    "title": "フロイド・ワーシャル法",
+    "section": "14.7",
+    "complexity": "時間 O(V³+E)、領域 O(V²)",
+    "source": "codes/chap14/code_14_5.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/15/1",
+    "path": "codes/chap15/code_15_1.py",
+    "title": "クラスカル法",
+    "section": "15.3",
+    "complexity": "時間 O(V+E log(E+1))、領域 O(V+E)",
+    "source": "codes/chap15/code_15_1.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/16/1",
+    "path": "codes/chap16/code_16_1.py",
+    "title": "フォード・ファルカーソン法",
+    "section": "16.4",
+    "complexity": "整数容量で時間 O((V+E)(F+1))、領域 O(V+E)。Fは最大流量",
+    "source": "codes/chap16/code_16_1.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "codes/18/1",
+    "path": "codes/chap18/code_18_1.py",
+    "title": "木の重み付き最大独立集合",
+    "section": "18.2",
+    "complexity": "時間・領域 O(V)",
+    "source": "codes/chap18/code_18_1.cpp",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/3/1",
+    "path": "solutions/chap03/block_01.py",
+    "title": "一致する要素の個数",
+    "section": "章末問題3.2",
+    "complexity": "時間 O(N)、入力領域 O(N)",
+    "source": "solutions/chap03.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/3/2",
+    "path": "solutions/chap03/block_02.py",
+    "title": "2番目に小さな値",
+    "section": "章末問題3.3",
+    "complexity": "時間 O(N)、追加領域 O(1)",
+    "source": "solutions/chap03.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/3/3",
+    "path": "solutions/chap03/block_03.py",
+    "title": "最大差",
+    "section": "章末問題3.4",
+    "complexity": "時間 O(N)、追加領域 O(1)",
+    "source": "solutions/chap03.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/3/4",
+    "path": "solutions/chap03/block_04.py",
+    "title": "Shift Only",
+    "section": "章末問題3.5",
+    "complexity": "時間 O(N log A)、追加領域 O(1)",
+    "source": "solutions/chap03.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/3/5",
+    "path": "solutions/chap03/block_05.py",
+    "title": "3整数の和：三重ループ",
+    "section": "章末問題3.6・比較用コード片",
+    "complexity": "時間 O((K+1)³)、領域 O(1)",
+    "source": "solutions/chap03.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "solutions/3/6",
+    "path": "solutions/chap03/block_06.py",
+    "title": "3整数の和：一変数を消去",
+    "section": "章末問題3.6",
+    "complexity": "時間 O((min(K,N)+1)²)、領域 O(1)",
+    "source": "solutions/chap03.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/3/7",
+    "path": "solutions/chap03/block_07.py",
+    "title": "たくさんの数式",
+    "section": "章末問題3.7",
+    "complexity": "時間 O(N·2^N)、追加領域 O(1)（算術演算回数）",
+    "source": "solutions/chap03.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/4/1",
+    "path": "solutions/chap04/block_01.py",
+    "title": "トリボナッチの素朴な再帰",
+    "section": "章末問題4.1",
+    "complexity": "時間 O(3^N)、再帰領域 O(N)",
+    "source": "solutions/chap04.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/4/2",
+    "path": "solutions/chap04/block_02.py",
+    "title": "トリボナッチのメモ化",
+    "section": "章末問題4.2",
+    "complexity": "時間 O(N)、領域 O(N)（算術演算回数）",
+    "source": "solutions/chap04.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/4/3",
+    "path": "solutions/chap04/block_03.py",
+    "title": "753数の再帰列挙",
+    "section": "章末問題4.5",
+    "complexity": "D桁まで時間 O(3^D)、再帰領域 O(D)",
+    "source": "solutions/chap04.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/4/4",
+    "path": "solutions/chap04/block_04.py",
+    "title": "部分和問題のメモ化",
+    "section": "章末問題4.6",
+    "complexity": "時間・領域 O(N(W+1))",
+    "source": "solutions/chap04.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/5/1",
+    "path": "solutions/chap05/block_01.py",
+    "title": "Vacation：前日の状態を持つDP",
+    "section": "章末問題5.1",
+    "complexity": "時間 O(N)、領域 O(N)",
+    "source": "solutions/chap05.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/5/2",
+    "path": "solutions/chap05/block_02.py",
+    "title": "0/1部分和の遷移",
+    "section": "章末問題5.2・コード片",
+    "complexity": "1セルの更新 O(1)",
+    "source": "solutions/chap05.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "solutions/5/3",
+    "path": "solutions/chap05/block_03.py",
+    "title": "0/1部分和のDP",
+    "section": "章末問題5.2",
+    "complexity": "時間・領域 O(N(W+1))",
+    "source": "solutions/chap05.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/5/4",
+    "path": "solutions/chap05/block_04.py",
+    "title": "K個以内の部分和：三次元DP",
+    "section": "章末問題5.4・比較用コード片",
+    "complexity": "時間・領域 O(N(W+1)(K+1))",
+    "source": "solutions/chap05.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "solutions/5/5",
+    "path": "solutions/chap05/block_05.py",
+    "title": "必要個数を最小化する遷移",
+    "section": "章末問題5.4・コード片",
+    "complexity": "1セルの更新 O(1)",
+    "source": "solutions/chap05.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "solutions/5/6",
+    "path": "solutions/chap05/block_06.py",
+    "title": "K個以内の部分和：個数をDP値にする",
+    "section": "章末問題5.4",
+    "complexity": "時間・領域 O(N(W+1))",
+    "source": "solutions/chap05.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/5/7",
+    "path": "solutions/chap05/block_07.py",
+    "title": "同一品物を一度だけ使う遷移",
+    "section": "章末問題5.5・比較用コード片",
+    "complexity": "1セルの更新 O(1)",
+    "source": "solutions/chap05.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "solutions/5/8",
+    "path": "solutions/chap05/block_08.py",
+    "title": "同一品物を繰り返し使う遷移",
+    "section": "章末問題5.5・比較用コード片",
+    "complexity": "1セルの更新 O(1)",
+    "source": "solutions/chap05.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "solutions/5/9",
+    "path": "solutions/chap05/block_09.py",
+    "title": "個数制限なし部分和",
+    "section": "章末問題5.5",
+    "complexity": "時間・領域 O(N(W+1))",
+    "source": "solutions/chap05.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/5/10",
+    "path": "solutions/chap05/block_10.py",
+    "title": "個数制限付き部分和",
+    "section": "章末問題5.6",
+    "complexity": "時間・領域 O(N(W+1))",
+    "source": "solutions/chap05.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/5/11",
+    "path": "solutions/chap05/block_11.py",
+    "title": "最長共通部分列の長さ",
+    "section": "章末問題5.7",
+    "complexity": "時間・領域 O((N+1)(M+1))",
+    "source": "solutions/chap05.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/5/12",
+    "path": "solutions/chap05/block_12.py",
+    "title": "区間DPの分割点による緩和",
+    "section": "章末問題5.9・疑似コード",
+    "complexity": "1区間の更新 O(j-i)",
+    "source": "solutions/chap05.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "solutions/5/13",
+    "path": "solutions/chap05/block_13.py",
+    "title": "Slimes：短い区間から解くDP",
+    "section": "章末問題5.9",
+    "complexity": "時間 O(N³)、領域 O(N²)",
+    "source": "solutions/chap05.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/6/1",
+    "path": "solutions/chap06/block_01.py",
+    "title": "lower_boundの添字",
+    "section": "章末問題6.1・コード片",
+    "complexity": "時間 O(log N)、領域 O(1)",
+    "source": "solutions/chap06.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "solutions/6/2",
+    "path": "solutions/chap06/block_02.py",
+    "title": "ソートと二分探索による順位",
+    "section": "章末問題6.1",
+    "complexity": "時間 O(N log N)、領域 O(N)",
+    "source": "solutions/chap06.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/6/3",
+    "path": "solutions/chap06/block_03.py",
+    "title": "Aggressive cows：最小間隔の最大化",
+    "section": "章末問題6.4",
+    "complexity": "時間 O(N log N+N log(A+1))、領域 O(N)",
+    "source": "solutions/chap06.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/7/1",
+    "path": "solutions/chap07/block_01.py",
+    "title": "大小関係を満たす最大ペア数",
+    "section": "章末問題7.1",
+    "complexity": "時間 O(N log N)、領域 O(N)",
+    "source": "solutions/chap07.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/8/1",
+    "path": "solutions/chap08/block_01.py",
+    "title": "連結リストの線形走査",
+    "section": "章末問題8.1・コード片",
+    "complexity": "時間 O(N)、追加領域 O(1)",
+    "source": "solutions/chap08.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "solutions/8/2",
+    "path": "solutions/chap08/block_02.py",
+    "title": "添字取得を繰り返す走査",
+    "section": "章末問題8.2・比較用コード片",
+    "complexity": "get(i) が O(i+1) なら全体 O(N²)",
+    "source": "solutions/chap08.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "solutions/8/3",
+    "path": "solutions/chap08/block_03.py",
+    "title": "単方向リストの削除",
+    "section": "章末問題8.4・コード片",
+    "complexity": "直前のノードが既知なら時間・追加領域 O(1)",
+    "source": "solutions/chap08.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "solutions/9/1",
+    "path": "solutions/chap09/block_01.py",
+    "title": "スタックによる逆ポーランド記法の評価",
+    "section": "章末問題9.2",
+    "complexity": "時間・領域 O(N)",
+    "source": "solutions/chap09.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/9/2",
+    "path": "solutions/chap09/block_02.py",
+    "title": "括弧の対応をスタックで求める",
+    "section": "章末問題9.3",
+    "complexity": "走査 O(N)、対応のソートを含めると O(N log N)、領域 O(N)",
+    "source": "solutions/chap09.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/12/1",
+    "path": "solutions/chap12/block_01.py",
+    "title": "ソート後の各要素の順位",
+    "section": "章末問題12.1",
+    "complexity": "時間 O(N log N)、領域 O(N)",
+    "source": "solutions/chap12.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/12/2",
+    "path": "solutions/chap12/block_02.py",
+    "title": "Median of mediansによる選択",
+    "section": "章末問題12.5・疑似コード",
+    "complexity": "最悪時間 O(N)、追加領域 O(N)",
+    "source": "solutions/chap12.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": false
+  },
+  {
+    "key": "solutions/13/1",
+    "path": "solutions/chap13/block_01.py",
+    "title": "DFSによる連結成分数",
+    "section": "章末問題13.1",
+    "complexity": "時間・領域 O(V+E)",
+    "source": "solutions/chap13.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/13/2",
+    "path": "solutions/chap13/block_02.py",
+    "title": "BFSによる連結成分数",
+    "section": "章末問題13.1",
+    "complexity": "時間・領域 O(V+E)",
+    "source": "solutions/chap13.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/13/3",
+    "path": "solutions/chap13/block_03.py",
+    "title": "BFSによる無向グラフのs-t到達判定",
+    "section": "章末問題13.2",
+    "complexity": "時間・領域 O(V+E)",
+    "source": "solutions/chap13.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/13/4",
+    "path": "solutions/chap13/block_04.py",
+    "title": "BFSによる二部グラフ判定",
+    "section": "章末問題13.3",
+    "complexity": "時間・領域 O(V+E)",
+    "source": "solutions/chap13.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/13/5",
+    "path": "solutions/chap13/block_05.py",
+    "title": "迷路の最短路",
+    "section": "章末問題13.4",
+    "complexity": "時間・領域 O(HW)",
+    "source": "solutions/chap13.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/15/1",
+    "path": "solutions/chap15/block_01.py",
+    "title": "最小全域木の辺重みのメディアン",
+    "section": "章末問題15.2",
+    "complexity": "時間 O(V+E log(E+1))、領域 O(V+E)",
+    "source": "solutions/chap15.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/15/2",
+    "path": "solutions/chap15/block_02.py",
+    "title": "すべての最小全域木に必要な辺",
+    "section": "章末問題15.3",
+    "complexity": "時間 O(E log(E+1)+V(V+Eα(V)))、領域 O(V+E)",
+    "source": "solutions/chap15.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/18/1",
+    "path": "solutions/chap18/block_01.py",
+    "title": "葉から貪欲に選ぶ木の最大独立集合",
+    "section": "章末問題18.1",
+    "complexity": "時間・領域 O(V)",
+    "source": "solutions/chap18.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  },
+  {
+    "key": "solutions/18/2",
+    "path": "solutions/chap18/block_02.py",
+    "title": "木の独立集合の数え上げ",
+    "section": "章末問題18.2",
+    "complexity": "時間・領域 O(V)",
+    "source": "solutions/chap18.md",
+    "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+    "executable": true
+  }
+]

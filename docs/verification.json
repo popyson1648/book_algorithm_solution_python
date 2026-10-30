@@ -1,0 +1,1108 @@
+{
+  "upstream_commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+  "python": "3.15.2",
+  "platform": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+  "compiler_command": [
+    "/usr/bin/clang++"
+  ],
+  "compiler_version": "Apple clang version 21.0.0 (clang-2100.3.34.2)",
+  "test_methods": 22,
+  "translated_units": 111,
+  "behavior_checked_units": 111,
+  "cpp_cli_comparisons": 180,
+  "result": "passed",
+  "units": [
+    {
+      "key": "codes/10/3",
+      "path": "codes/chap10/code_10_3.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_union_find_and_graph_construction",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/10/4",
+      "path": "codes/chap10/code_10_4.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_union_find_and_graph_construction",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/10/5",
+      "path": "codes/chap10/code_10_5.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_stack_queue_heap",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/11/1",
+      "path": "codes/chap11/code_11_1.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_union_find_and_graph_construction"
+      ]
+    },
+    {
+      "key": "codes/11/2",
+      "path": "codes/chap11/code_11_2.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_union_find_and_graph_construction"
+      ]
+    },
+    {
+      "key": "codes/11/3",
+      "path": "codes/chap11/code_11_3.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_union_find_and_graph_construction",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/11/4",
+      "path": "codes/chap11/code_11_4.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_graph_traversals",
+        "test_algorithms.AlgorithmTests.test_union_find_and_graph_construction",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/12/1",
+      "path": "codes/chap12/code_12_1.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_sorting_selection_and_ranks",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/12/2",
+      "path": "codes/chap12/code_12_2.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_sorting_selection_and_ranks",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/12/3",
+      "path": "codes/chap12/code_12_3.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_sorting_selection_and_ranks",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/12/4",
+      "path": "codes/chap12/code_12_4.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_sorting_selection_and_ranks",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/12/5",
+      "path": "codes/chap12/code_12_5.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_sorting_selection_and_ranks",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/13/2",
+      "path": "codes/chap13/code_13_2.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_graph_traversals",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/13/3",
+      "path": "codes/chap13/code_13_3.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_graph_traversals",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/13/4",
+      "path": "codes/chap13/code_13_4.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_graph_traversals",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/13/5",
+      "path": "codes/chap13/code_13_5.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_graph_traversals",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/13/6",
+      "path": "codes/chap13/code_13_6.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_graph_traversals",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/13/9",
+      "path": "codes/chap13/code_13_9.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_tree_algorithms",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/14/1",
+      "path": "codes/chap14/code_14_1.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_transition_fragments"
+      ]
+    },
+    {
+      "key": "codes/14/2",
+      "path": "codes/chap14/code_14_2.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_shortest_paths",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/14/3",
+      "path": "codes/chap14/code_14_3.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_shortest_paths",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/14/4",
+      "path": "codes/chap14/code_14_4.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_shortest_paths",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/14/5",
+      "path": "codes/chap14/code_14_5.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_shortest_paths",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/15/1",
+      "path": "codes/chap15/code_15_1.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_spanning_trees",
+        "test_algorithms.AlgorithmTests.test_union_find_and_graph_construction",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/16/1",
+      "path": "codes/chap16/code_16_1.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_flow_against_all_cuts",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/18/1",
+      "path": "codes/chap18/code_18_1.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_tree_algorithms",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/2/1",
+      "path": "codes/chap02/code_2_1.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_complexity_examples_and_search",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/2/2",
+      "path": "codes/chap02/code_2_2.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_complexity_examples_and_search",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/2/3",
+      "path": "codes/chap02/code_2_3.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_complexity_examples_and_search",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/2/4",
+      "path": "codes/chap02/code_2_4.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_complexity_examples_and_search",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/3/1",
+      "path": "codes/chap03/code_3_1.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_complexity_examples_and_search",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/3/2",
+      "path": "codes/chap03/code_3_2.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_complexity_examples_and_search",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/3/3",
+      "path": "codes/chap03/code_3_3.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_complexity_examples_and_search",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/3/4",
+      "path": "codes/chap03/code_3_4.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_pair_sum",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/3/6",
+      "path": "codes/chap03/code_3_6.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_subset_sum_variants",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/4/1",
+      "path": "codes/chap04/code_4_1.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_recurrences"
+      ]
+    },
+    {
+      "key": "codes/4/2",
+      "path": "codes/chap04/code_4_2.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_recurrences",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/4/4",
+      "path": "codes/chap04/code_4_4.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_recurrences",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/4/5",
+      "path": "codes/chap04/code_4_5.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_recurrences"
+      ]
+    },
+    {
+      "key": "codes/4/6",
+      "path": "codes/chap04/code_4_6.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_recurrences",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/4/7",
+      "path": "codes/chap04/code_4_7.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_recurrences",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/4/8",
+      "path": "codes/chap04/code_4_8.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_recurrences",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/4/9",
+      "path": "codes/chap04/code_4_9.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_subset_sum_variants",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/5/1",
+      "path": "codes/chap05/code_5_1.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_frog_and_knapsack",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/5/2",
+      "path": "codes/chap05/code_5_2.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_transition_fragments"
+      ]
+    },
+    {
+      "key": "codes/5/3",
+      "path": "codes/chap05/code_5_3.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_frog_and_knapsack",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/5/4",
+      "path": "codes/chap05/code_5_4.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_frog_and_knapsack",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/5/6",
+      "path": "codes/chap05/code_5_6.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_frog_and_knapsack",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/5/7",
+      "path": "codes/chap05/code_5_7.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_frog_and_knapsack",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/5/8",
+      "path": "codes/chap05/code_5_8.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_strings_and_intervals",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/5/9",
+      "path": "codes/chap05/code_5_9.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_strings_and_intervals",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/6/1",
+      "path": "codes/chap06/code_6_1.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_binary_search_and_greedy",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/6/2",
+      "path": "codes/chap06/code_6_2.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_binary_search_and_greedy"
+      ]
+    },
+    {
+      "key": "codes/6/3",
+      "path": "codes/chap06/code_6_3.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_binary_search_and_greedy",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/6/4",
+      "path": "codes/chap06/code_6_4.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_pair_sum",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/6/5",
+      "path": "codes/chap06/code_6_5.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_binary_search_and_greedy",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/7/1",
+      "path": "codes/chap07/code_7_1.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_binary_search_and_greedy",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/7/2",
+      "path": "codes/chap07/code_7_2.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_binary_search_and_greedy",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/7/3",
+      "path": "codes/chap07/code_7_3.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_binary_search_and_greedy",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/8/1",
+      "path": "codes/chap08/code_8_1.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_linked_lists",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/8/2",
+      "path": "codes/chap08/code_8_2.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_linked_lists"
+      ]
+    },
+    {
+      "key": "codes/8/3",
+      "path": "codes/chap08/code_8_3.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_linked_lists"
+      ]
+    },
+    {
+      "key": "codes/8/4",
+      "path": "codes/chap08/code_8_4.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_linked_lists",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/8/5",
+      "path": "codes/chap08/code_8_5.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_linked_lists"
+      ]
+    },
+    {
+      "key": "codes/8/6",
+      "path": "codes/chap08/code_8_6.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_linked_lists",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/9/1",
+      "path": "codes/chap09/code_9_1.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_stack_queue_heap",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "codes/9/2",
+      "path": "codes/chap09/code_9_2.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_stack_queue_heap",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/12/1",
+      "path": "solutions/chap12/block_01.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_sorting_selection_and_ranks",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/12/2",
+      "path": "solutions/chap12/block_02.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_sorting_selection_and_ranks"
+      ]
+    },
+    {
+      "key": "solutions/13/1",
+      "path": "solutions/chap13/block_01.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_graph_traversals",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/13/2",
+      "path": "solutions/chap13/block_02.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_graph_traversals",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/13/3",
+      "path": "solutions/chap13/block_03.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_graph_traversals",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/13/4",
+      "path": "solutions/chap13/block_04.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_graph_traversals",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/13/5",
+      "path": "solutions/chap13/block_05.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_graph_traversals",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/15/1",
+      "path": "solutions/chap15/block_01.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_spanning_trees",
+        "test_algorithms.AlgorithmTests.test_union_find_and_graph_construction",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/15/2",
+      "path": "solutions/chap15/block_02.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_spanning_trees",
+        "test_algorithms.AlgorithmTests.test_union_find_and_graph_construction",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/18/1",
+      "path": "solutions/chap18/block_01.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_tree_algorithms",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/18/2",
+      "path": "solutions/chap18/block_02.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_tree_algorithms",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/3/1",
+      "path": "solutions/chap03/block_01.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_complexity_examples_and_search",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/3/2",
+      "path": "solutions/chap03/block_02.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_complexity_examples_and_search",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/3/3",
+      "path": "solutions/chap03/block_03.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_complexity_examples_and_search",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/3/4",
+      "path": "solutions/chap03/block_04.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_small_enumerations",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/3/5",
+      "path": "solutions/chap03/block_05.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_small_enumerations"
+      ]
+    },
+    {
+      "key": "solutions/3/6",
+      "path": "solutions/chap03/block_06.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_small_enumerations",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/3/7",
+      "path": "solutions/chap03/block_07.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_small_enumerations",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/4/1",
+      "path": "solutions/chap04/block_01.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_recurrences",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/4/2",
+      "path": "solutions/chap04/block_02.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_recurrences",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/4/3",
+      "path": "solutions/chap04/block_03.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_recurrences",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/4/4",
+      "path": "solutions/chap04/block_04.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_subset_sum_variants",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/5/1",
+      "path": "solutions/chap05/block_01.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_small_enumerations",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/5/10",
+      "path": "solutions/chap05/block_10.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_subset_sum_variants",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/5/11",
+      "path": "solutions/chap05/block_11.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_strings_and_intervals",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/5/12",
+      "path": "solutions/chap05/block_12.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_transition_fragments"
+      ]
+    },
+    {
+      "key": "solutions/5/13",
+      "path": "solutions/chap05/block_13.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_strings_and_intervals",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/5/2",
+      "path": "solutions/chap05/block_02.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_transition_fragments"
+      ]
+    },
+    {
+      "key": "solutions/5/3",
+      "path": "solutions/chap05/block_03.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_subset_sum_variants",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/5/4",
+      "path": "solutions/chap05/block_04.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_subset_sum_variants"
+      ]
+    },
+    {
+      "key": "solutions/5/5",
+      "path": "solutions/chap05/block_05.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_transition_fragments"
+      ]
+    },
+    {
+      "key": "solutions/5/6",
+      "path": "solutions/chap05/block_06.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_subset_sum_variants",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/5/7",
+      "path": "solutions/chap05/block_07.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_transition_fragments"
+      ]
+    },
+    {
+      "key": "solutions/5/8",
+      "path": "solutions/chap05/block_08.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_transition_fragments"
+      ]
+    },
+    {
+      "key": "solutions/5/9",
+      "path": "solutions/chap05/block_09.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_subset_sum_variants",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/6/1",
+      "path": "solutions/chap06/block_01.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_sorting_selection_and_ranks"
+      ]
+    },
+    {
+      "key": "solutions/6/2",
+      "path": "solutions/chap06/block_02.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_sorting_selection_and_ranks",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/6/3",
+      "path": "solutions/chap06/block_03.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_binary_search_and_greedy",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/7/1",
+      "path": "solutions/chap07/block_01.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_binary_search_and_greedy",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/8/1",
+      "path": "solutions/chap08/block_01.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_linked_lists"
+      ]
+    },
+    {
+      "key": "solutions/8/2",
+      "path": "solutions/chap08/block_02.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_linked_lists"
+      ]
+    },
+    {
+      "key": "solutions/8/3",
+      "path": "solutions/chap08/block_03.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_linked_lists"
+      ]
+    },
+    {
+      "key": "solutions/9/1",
+      "path": "solutions/chap09/block_01.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_rpn_and_parentheses",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    },
+    {
+      "key": "solutions/9/2",
+      "path": "solutions/chap09/block_02.py",
+      "behavior": "passed",
+      "syntax": "passed",
+      "checks": [
+        "test_algorithms.AlgorithmTests.test_rpn_and_parentheses",
+        "test_differential.DifferentialTests.test_all_executable_translations"
+      ]
+    }
+  ]
+}
