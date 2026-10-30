@@ -1,0 +1,350 @@
+{
+  "repository": "drken1215/book_algorithm_solution",
+  "commit": "bf4af1b13b6fb1f58b8a921ab319096422f064d6",
+  "selection": [
+    "codes/**/*.cpp",
+    "solutions/chap*.md"
+  ],
+  "files": [
+    {
+      "path": "codes/chap02/code_2_1.cpp",
+      "git_blob": "375d9b7ce84bc4e92e7b642ee4378ad11bd0f05a"
+    },
+    {
+      "path": "codes/chap02/code_2_2.cpp",
+      "git_blob": "5b13d91b9591e5503c4c90759e2bfbeee89a1ac6"
+    },
+    {
+      "path": "codes/chap02/code_2_3.cpp",
+      "git_blob": "41cd5db1405506a46960d7dd089a908885799dce"
+    },
+    {
+      "path": "codes/chap02/code_2_4.cpp",
+      "git_blob": "f7896636bc865d5356dde1c09928996fea094fb9"
+    },
+    {
+      "path": "codes/chap03/code_3_1.cpp",
+      "git_blob": "a440b77d3b2ab750cc4ad77cd2680b90fda9a0a5"
+    },
+    {
+      "path": "codes/chap03/code_3_2.cpp",
+      "git_blob": "cb54a3d776ae4eeaef6df46753bb296947b83bb7"
+    },
+    {
+      "path": "codes/chap03/code_3_3.cpp",
+      "git_blob": "3e8d45644c2241d3defd2f02ad465ab9dd4630c6"
+    },
+    {
+      "path": "codes/chap03/code_3_4.cpp",
+      "git_blob": "4523966086ad2184fc90dfd7adeb9d514a48d8a4"
+    },
+    {
+      "path": "codes/chap03/code_3_6.cpp",
+      "git_blob": "33a9a108c226104d4e3f34cdc2ff61dd9acb0def"
+    },
+    {
+      "path": "codes/chap04/code_4_1.cpp",
+      "git_blob": "84c46880e99f68c4cb5509fa5e1696bb2676e8a2"
+    },
+    {
+      "path": "codes/chap04/code_4_2.cpp",
+      "git_blob": "ed12c2b9e56b5a29ade4c7c89a5f3549bfc87f03"
+    },
+    {
+      "path": "codes/chap04/code_4_4.cpp",
+      "git_blob": "db93d5600436b72fa7e719f645e7cc2070ad1144"
+    },
+    {
+      "path": "codes/chap04/code_4_5.cpp",
+      "git_blob": "501456e5a862dac3ed56f11ea3776e920cc3aacc"
+    },
+    {
+      "path": "codes/chap04/code_4_6.cpp",
+      "git_blob": "321508fa4b4902a8e6e42cc804f5710da0a24c5e"
+    },
+    {
+      "path": "codes/chap04/code_4_7.cpp",
+      "git_blob": "17eb4ce0559be0e6ca7766caadd04edf5b0caa53"
+    },
+    {
+      "path": "codes/chap04/code_4_8.cpp",
+      "git_blob": "65cf78ca4be6b48fadf47b980da4ce9340a06293"
+    },
+    {
+      "path": "codes/chap04/code_4_9.cpp",
+      "git_blob": "1403e5595e05193b240b33b32c6acb9b9247a01c"
+    },
+    {
+      "path": "codes/chap05/code_5_1.cpp",
+      "git_blob": "a58da3b027a17e7c595b245ce06174113d110115"
+    },
+    {
+      "path": "codes/chap05/code_5_2.cpp",
+      "git_blob": "0b0ff07ae60f16e071802d06d35086660dd88f06"
+    },
+    {
+      "path": "codes/chap05/code_5_3.cpp",
+      "git_blob": "1cca18ec3a16763e1b42c8c739f2b2cfed5ecc27"
+    },
+    {
+      "path": "codes/chap05/code_5_4.cpp",
+      "git_blob": "e47eb3fe5249c185362e155d80955b66f98b1522"
+    },
+    {
+      "path": "codes/chap05/code_5_6.cpp",
+      "git_blob": "1a0414b9c1f0d18e2e2cb161f2460c452565deb0"
+    },
+    {
+      "path": "codes/chap05/code_5_7.cpp",
+      "git_blob": "9119d85856cb2eabe1da4d05939e497647a14b72"
+    },
+    {
+      "path": "codes/chap05/code_5_8.cpp",
+      "git_blob": "29375a1bde055a7c416749281a92aba7a3834214"
+    },
+    {
+      "path": "codes/chap05/code_5_9.cpp",
+      "git_blob": "534297aeea9b555cec564c71d4f70ace0bafbe7a"
+    },
+    {
+      "path": "codes/chap06/code_6_1.cpp",
+      "git_blob": "d8d4aae2dae38f7b4b6165ab804bfd0365604fe1"
+    },
+    {
+      "path": "codes/chap06/code_6_2.cpp",
+      "git_blob": "e133409ea875ac1cf820bffcc16e16eb5a5032a6"
+    },
+    {
+      "path": "codes/chap06/code_6_3.cpp",
+      "git_blob": "dd53be1f87bf192a623b6a436631b6dadc72111f"
+    },
+    {
+      "path": "codes/chap06/code_6_4.cpp",
+      "git_blob": "460943c99e2fe8e41fb15bfdbad93e2cdcaa4f7d"
+    },
+    {
+      "path": "codes/chap06/code_6_5.cpp",
+      "git_blob": "47a9ec5316c276ef8156e7b17fdd4907b51f2630"
+    },
+    {
+      "path": "codes/chap07/code_7_1.cpp",
+      "git_blob": "13bc9335818e42de85bec54f3df54eb8bb71e978"
+    },
+    {
+      "path": "codes/chap07/code_7_2.cpp",
+      "git_blob": "9d17f3fa2fefcac13c66e28b7a5e0caf64213fc2"
+    },
+    {
+      "path": "codes/chap07/code_7_3.cpp",
+      "git_blob": "19fcd404cd033a7f987ead042be43f8ec089d5f3"
+    },
+    {
+      "path": "codes/chap08/code_8_1.cpp",
+      "git_blob": "64e5cacf5cdc89268a260f1b2d366b55380444e4"
+    },
+    {
+      "path": "codes/chap08/code_8_2.cpp",
+      "git_blob": "35c29367e03c4ea9757a56e58f0398048a0a4a33"
+    },
+    {
+      "path": "codes/chap08/code_8_3.cpp",
+      "git_blob": "89d21774c6fbfba280c928ee9956987502401908"
+    },
+    {
+      "path": "codes/chap08/code_8_4.cpp",
+      "git_blob": "5c8eb72311531bfa672538ff107fae667cb55584"
+    },
+    {
+      "path": "codes/chap08/code_8_5.cpp",
+      "git_blob": "6fa150ce8f9c33d7103a5cd2490bd3cc28ea0bef"
+    },
+    {
+      "path": "codes/chap08/code_8_6.cpp",
+      "git_blob": "c39056e061bf3862702f7e885b58de48e2c29d33"
+    },
+    {
+      "path": "codes/chap09/code_9_1.cpp",
+      "git_blob": "e5ec687dc42a416d8689ecf2e57bcca35f6a23a9"
+    },
+    {
+      "path": "codes/chap09/code_9_2.cpp",
+      "git_blob": "4728291ce6eeb488da90f6180560391a99d82469"
+    },
+    {
+      "path": "codes/chap10/code_10_3.cpp",
+      "git_blob": "fd0b5f3fa84342169095f59d7c733268055d600a"
+    },
+    {
+      "path": "codes/chap10/code_10_4.cpp",
+      "git_blob": "5a2adccf7a1b7748553376746171e2b53b919019"
+    },
+    {
+      "path": "codes/chap10/code_10_5.cpp",
+      "git_blob": "9a66a65e73be065d77ef5455b2fb81475bfb45aa"
+    },
+    {
+      "path": "codes/chap11/code_11_1.cpp",
+      "git_blob": "a03569b63cbe06956241edc7e62acc242e83cbc0"
+    },
+    {
+      "path": "codes/chap11/code_11_2.cpp",
+      "git_blob": "7e98410a09c41e71a34acc104f708ff66657b8b4"
+    },
+    {
+      "path": "codes/chap11/code_11_3.cpp",
+      "git_blob": "9c6d97c78d30fcd16af2432bd942734325666f1b"
+    },
+    {
+      "path": "codes/chap11/code_11_4.cpp",
+      "git_blob": "ed6386f04a22c4a4d8b530021de9427195d64ab0"
+    },
+    {
+      "path": "codes/chap12/code_12_1.cpp",
+      "git_blob": "37bb8d6ee4d5b64f9904feb04effe3eac981dd97"
+    },
+    {
+      "path": "codes/chap12/code_12_2.cpp",
+      "git_blob": "e75abf3bc28ec077f8e9c3c9fca7331d012ce7ab"
+    },
+    {
+      "path": "codes/chap12/code_12_3.cpp",
+      "git_blob": "dccf25b4d82a15e7e24f152d07bf752c49bf8335"
+    },
+    {
+      "path": "codes/chap12/code_12_4.cpp",
+      "git_blob": "fbecd86bfd1dab6212f5b58fd0007f580331f49e"
+    },
+    {
+      "path": "codes/chap12/code_12_5.cpp",
+      "git_blob": "b565d5468fe75958a6cf69913b38fd5d9c1d2396"
+    },
+    {
+      "path": "codes/chap13/code_13_2.cpp",
+      "git_blob": "f52ef97a1b7b884f0e32b3a17d07063b0beaa1aa"
+    },
+    {
+      "path": "codes/chap13/code_13_3.cpp",
+      "git_blob": "0bc9a576083ba4bf8b882ed20872d55fc4589af7"
+    },
+    {
+      "path": "codes/chap13/code_13_4.cpp",
+      "git_blob": "e08ef0b388016856251d36ee277e6cef098a41d1"
+    },
+    {
+      "path": "codes/chap13/code_13_5.cpp",
+      "git_blob": "565b414b11b434418f8ba08d5ea946289e298589"
+    },
+    {
+      "path": "codes/chap13/code_13_6.cpp",
+      "git_blob": "fa70a8af0c4ac76cc8d0ba1daa01a541d18a3414"
+    },
+    {
+      "path": "codes/chap13/code_13_9.cpp",
+      "git_blob": "947b83e6f900ae30ff5f882c569d688eaf4cdb27"
+    },
+    {
+      "path": "codes/chap14/code_14_1.cpp",
+      "git_blob": "df73fd6735870bf3b489dd55981d3884bde1d4f4"
+    },
+    {
+      "path": "codes/chap14/code_14_2.cpp",
+      "git_blob": "8e486ef07494dfe6e2a9eb0fbfeb6a506a46a536"
+    },
+    {
+      "path": "codes/chap14/code_14_3.cpp",
+      "git_blob": "082f8727eb6d5d8edd51f289c04d0cd0b6601cae"
+    },
+    {
+      "path": "codes/chap14/code_14_4.cpp",
+      "git_blob": "09df84f2a7fef8840ad709dce3c93cecfcac7dfd"
+    },
+    {
+      "path": "codes/chap14/code_14_5.cpp",
+      "git_blob": "9625b9189b5b80f30e95e8b722e9a694936fd98f"
+    },
+    {
+      "path": "codes/chap15/code_15_1.cpp",
+      "git_blob": "cb2484d35c99595bc62c432619f8da3dab32bfbf"
+    },
+    {
+      "path": "codes/chap16/code_16_1.cpp",
+      "git_blob": "2cfb308d99cae6ffe5936f044940a43878a8fb17"
+    },
+    {
+      "path": "codes/chap18/code_18_1.cpp",
+      "git_blob": "8fb8b9e32eba68ed4adaad7699b673586ccbe027"
+    },
+    {
+      "path": "solutions/chap01.md",
+      "git_blob": "9bf2fd59aec0751d184434087a65332fdf3b9982"
+    },
+    {
+      "path": "solutions/chap02.md",
+      "git_blob": "94f00bc9719f05a7b4bdaa62d8b4295faf994d4f"
+    },
+    {
+      "path": "solutions/chap03.md",
+      "git_blob": "4cffc80d24796e6400fc788debdd64f4293205e5"
+    },
+    {
+      "path": "solutions/chap04.md",
+      "git_blob": "53827a6ae333b7a17d22eb786a406166b335bc80"
+    },
+    {
+      "path": "solutions/chap05.md",
+      "git_blob": "e870e07eab8d5fb6a67657007717798ff10df2b9"
+    },
+    {
+      "path": "solutions/chap06.md",
+      "git_blob": "72a94427453468a493bf3cd72c3316a4d1318d18"
+    },
+    {
+      "path": "solutions/chap07.md",
+      "git_blob": "913a1ab20aa25d6e9641aa800499032f482119a9"
+    },
+    {
+      "path": "solutions/chap08.md",
+      "git_blob": "f9f2bed39c2b64c162b733ed4fe62aac3a2a090f"
+    },
+    {
+      "path": "solutions/chap09.md",
+      "git_blob": "d4c5a7e91763a03ec41c7b47fa61cfd98d2fe7f7"
+    },
+    {
+      "path": "solutions/chap10.md",
+      "git_blob": "b09000a9f05b3c47bcb425faee3bf19346cd8fd5"
+    },
+    {
+      "path": "solutions/chap11.md",
+      "git_blob": "e26159bd0d19826a1f0b28cdaa382448d20bb6ff"
+    },
+    {
+      "path": "solutions/chap12.md",
+      "git_blob": "e26bc2bed12fae3ce2ceb9cfed9ad7871fd85d12"
+    },
+    {
+      "path": "solutions/chap13.md",
+      "git_blob": "dcd152b0762f84e1a0d23d0c35a3666475fbf11c"
+    },
+    {
+      "path": "solutions/chap14.md",
+      "git_blob": "2985577c2ea7dac4b7a38a65bc20d7250857c5d7"
+    },
+    {
+      "path": "solutions/chap15.md",
+      "git_blob": "27c59ecf90b7a98e758b0eda43a387b7d00b0238"
+    },
+    {
+      "path": "solutions/chap16.md",
+      "git_blob": "e159c15795c1f92e09397536108298386701522f"
+    },
+    {
+      "path": "solutions/chap17.md",
+      "git_blob": "57686d079e2bb43cc600eee4d46f794e33affb13"
+    },
+    {
+      "path": "solutions/chap18.md",
+      "git_blob": "9e89a48c80a553455fd11dd8c4a356d06b0a9601"
+    }
+  ]
+}

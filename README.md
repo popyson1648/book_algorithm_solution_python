@@ -17,6 +17,20 @@
 
 本文67ファイルと章末解答のC++コードブロック44個、計111件をPythonに移植しています。章末の実行用コードは `solutions/chapXX/block_YY.py` にあり、問題番号から章別Markdownを通して辿れます。`docs/` と `tests/` はPython版の補足資料・検証用です。
 
+元のC++コードと章別解答は [references/](references/) に、元リポジトリの構造・ファイル名・文字コードを保って収録しています。
+
+```text
+codes/                         Pythonの本文コード
+solutions/                     Pythonの章末コードと問題別の案内
+references/
+  codes/chapXX/code_X_Y.cpp     著者の本文コード（原本）
+  solutions/chapXX.md           著者の章別解答（原本）
+docs/                          Python版の補足資料
+tests/                         Python版の検証コード・入力データ
+```
+
+`references/` は取得元コミットのコード関連部分を収録したものです。元リポジトリには `docs/`・`tests/` はありません。README・LICENSE・正誤表・画像はここには重複して置いていません。
+
 [書籍情報（講談社）](https://www.kspub.co.jp/book/detail/5128442.html)
 
 # 使用言語と動作環境
@@ -45,7 +59,7 @@ Pythonコードは各ファイルで独立しています。実装やコメン�
 - [翻訳方針と調査出典](docs/translation_policy.md)
 - [検証方法と結果](docs/verification.md)
 
-著者の解説文・図版・書影は転載せず、原文へのリンクで案内しています。元の `fig/` に対応する画像の複製は収録していません。
+`references/solutions/` には、コードを含む著者公開リポジトリの章別Markdownをそのまま収録しています。図版・書影は原文のリンクから参照でき、元の `fig/` の画像ファイルは収録していません。
 
 # License
 
