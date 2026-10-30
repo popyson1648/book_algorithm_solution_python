@@ -57,7 +57,9 @@ Pythonのアルゴリズム検証だけを行う場合：
 python3 -B -m unittest discover -s tests -p 'test_algorithms.py' -v
 ```
 
-C++比較用の原文は `tests/reference/` に収録しています。EUC-JPのファイルはUTF-8へ変換し、原文の文字コードとSHA-256を記録しています。コンパイルの一時ファイルはOSの一時領域に作り、終了時に削除します。
+C++の原本は `references/codes/`、章末解答の原本は `references/solutions/chapXX.md` に、元の構造・文字コードのまま収録しています。`tests/` に原本のコピーは置いていません。
+
+比較テストは、本文のC++ファイルと章別Markdown内のC++コードブロックを読み、OSの一時領域にUTF-8のコンパイル用ソースを作ります。一時ファイルはテスト終了時に削除します。`tests/reference_manifest.json` に各テストの参照先・ブロック番号・SHA-256、`docs/upstream_snapshot.json` に原本85ファイルの取得元コミットとGit blobハッシュを記録しています。
 
 ## 利用上の前提
 

@@ -10,16 +10,10 @@ import sys
 import tempfile
 import unittest
 
-from support import BY_KEY, ROOT, mark
+from support import BY_KEY, ROOT, mark, reference_text
 
 CASES = json.loads((ROOT / 'tests/cases.json').read_text())
 COMPARISONS = 0
-
-
-def reference_path(key):
-    kind, chapter, number = key.split('/')
-    stem = f'code_{chapter}_{number}' if kind == 'codes' else f'block_{int(number):02}'
-    return ROOT / 'tests/reference' / kind / f'chap{int(chapter):02}' / (stem + '.cpp')
 
 
 class DifferentialTests(unittest.TestCase):
@@ -35,9 +29,12 @@ class DifferentialTests(unittest.TestCase):
 
         def compile_one(key):
             binary = Path(cls.temp.name) / key.replace('/', '_')
+            # 原本を変更せず、一時領域にUTF-8のコンパイル用ソースを作る。
+            source = binary.with_suffix('.cpp')
+            source.write_text(reference_text(key), encoding='utf-8')
             # アルゴリズム本文は無変更。明示的な標準ヘッダーの補完だけを行う。
             command = cls.compiler + ['-std=c++17', '-O1', '-include', 'algorithm',
-                                      '-include', 'cmath', str(reference_path(key)), '-o', str(binary)]
+                                      '-include', 'cmath', str(source), '-o', str(binary)]
             result = subprocess.run(command, capture_output=True, text=True, timeout=60)
             if result.returncode:
                 raise AssertionError(f'{key}: C++コンパイル失敗\n{result.stderr}')

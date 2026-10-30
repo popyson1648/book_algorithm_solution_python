@@ -6,7 +6,7 @@
     "/usr/bin/clang++"
   ],
   "compiler_version": "Apple clang version 21.0.0 (clang-2100.3.34.2)",
-  "test_methods": 22,
+  "test_methods": 23,
   "translated_units": 111,
   "behavior_checked_units": 111,
   "cpp_cli_comparisons": 180,
