@@ -29,7 +29,7 @@ docs/                          Python版の補足資料
 tests/                         Python版の検証コード・入力データ
 ```
 
-`references/` は取得元コミットのコード関連部分を収録したものです。元リポジトリには `docs/`・`tests/` はありません。README・LICENSE・正誤表・画像はここには重複して置いていません。
+`references/` は取得元コミットのコード関連部分を収録したものです。
 
 [書籍情報（講談社）](https://www.kspub.co.jp/book/detail/5128442.html)
 
